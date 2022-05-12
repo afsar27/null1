@@ -2,4 +2,4 @@
 Git-hub explore
 Mohamed Afsar I <br>
 20IT025 <br>
-Information Technology
+IT
